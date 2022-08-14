@@ -1,5 +1,5 @@
 # ingest-charity
-The code for inputting charity data into MongoDB with Node.js and Next.js.    
+The code for inputting charity data ( from CRA)  into MongoDB with Node.js and Next.js.    
 You can first upload <2020 Basic _ Financial information.csv>, success, then upload <2021 Basic & Financial information.csv>.
 
 
